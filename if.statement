@@ -1,0 +1,9 @@
+
+ if 10<20 :
+...    print('10 is smaller than 20')
+...    print('correct condition')
+...
+
+#output :
+10 is smaller than 20
+correct condition
