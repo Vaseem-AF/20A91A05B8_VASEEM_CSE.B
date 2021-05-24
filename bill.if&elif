@@ -1,0 +1,38 @@
+#Discount on the amount
+
+bill=int(input())
+print('The amount is ',bill)
+
+if (1000<=bill<2000):
+ d=0.1*bill
+ print('The discount is ',d)
+ print('The total amount to be paid is ',bill-d)
+
+elif (2000<=bill<3000):
+ d=0.2*bill
+ print('The discount is ',d)
+ print('The total amount to be paid is ',bill-d)
+ 
+elif (3000<=bill<4000):
+ d=0.3*bill
+ print('The discount is ',d)
+ print('The total amount to be paid is ',bill-d)
+ 
+elif (4000<=bill<5000): 
+ d=0.4*bill
+ print('The discount is ',d)
+ print('The total amount to be paid is ',bill-d)
+ 
+else :
+ print('you have received no discount for bill ', bill)
+ 
+ 
+ #output.1 :
+ #2000
+ #The amount is 2000
+ #The discount is 400
+ #The total amount to be paid is 1600
+ 
+ #output.2 :
+ #The amount is 600
+ #you have received no discount for bill 600
