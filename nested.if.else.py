@@ -1,4 +1,4 @@
-#Neated if else
+#Nested if else
 
 
 username=input('enter student name ')
@@ -13,3 +13,19 @@ if (username=='cse'):
         print('password incorrect')
 else :
     print('username incorrect')
+
+    #outputs :
+enter student name cSe
+username incorrect
+    
+enter student name cse
+enter password aec
+password incorrect
+    
+enter student name cse
+enter password AEC
+valid student    
+
+enter student name cse
+enter password aec
+password incorrect
