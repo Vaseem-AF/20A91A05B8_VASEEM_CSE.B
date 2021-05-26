@@ -26,6 +26,3 @@ enter student name cse
 enter password AEC
 valid student    
 
-enter student name cse
-enter password aec
-password incorrect
