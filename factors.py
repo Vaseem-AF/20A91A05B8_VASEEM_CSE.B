@@ -19,3 +19,14 @@ The factors of number are :
 2
 3
 6
+
+Enter the number whose factors is to be found 100
+1
+2
+4
+5
+10
+20
+25
+50
+100
