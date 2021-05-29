@@ -11,4 +11,11 @@ while i in range (i,n+1):
        else :
         i=i+1
         
-         
+#output :
+
+Enter the number whose factors is to be found 6
+The factors of number are : 
+1
+2
+3
+6
