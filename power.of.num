@@ -1,0 +1,20 @@
+A=int(input('Enter A '))
+B=int(input("Enter B "))
+print(A**B)
+print('last digit of A to the power B is ',(A**B)%10)
+'''
+output:1
+
+Enter A 2
+Enter B 3
+8
+last digit of A to the power B is 8
+
+
+output:2
+
+Enter A 7
+Enter B 5
+16807
+last digit of A to the power B is 7
+'''
